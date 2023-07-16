@@ -1,2 +1,2 @@
-# Object-detection-scripts-in-OpenCv
+# Detection-scripts-in-OpenCv
 
